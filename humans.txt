@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Joao Sousa	normalemail@gmail.com
 
 # THANKS
 
